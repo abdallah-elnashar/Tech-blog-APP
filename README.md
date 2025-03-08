@@ -20,7 +20,7 @@ Check out the live version of the app: [Tech Blog App] (https://tech-blog-app-np
 - **Responsive Design:** Optimized for various devices using React and Tailwind CSS.
 - **RESTful API:** Backend services built with Express v5 and Node.js.
 - **Database Management:** Efficient data handling with MongoDB and Mongoose.
-- **State Management:** Utilizing React Query and Context API for state handling.
+- **State Management:** Utilizing React Query for state handling.
 - **Deployment:** Hosted on Render for global accessibility.
 
 ## Tech Stack
@@ -29,7 +29,7 @@ Check out the live version of the app: [Tech Blog App] (https://tech-blog-app-np
 - **Backend:** Node.js, Express v5
 - **Database:** MongoDB (Mongoose ODM)
 - **Authentication:** Clerk
-- **State Management:** React Query, Context API
+- **State Management:** React Query
 - **Deployment:** Render
 
 ## Contributing
