@@ -32,7 +32,7 @@ function FeaturedPosts() {
         {/* image */}
         {posts[0].img && (
           <Image
-            src="featured1.jpeg"
+            src={posts[0].img}
             className="rounded-3xl object-cover"
             w="895"
           />
