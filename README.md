@@ -10,8 +10,9 @@ Check out the live version of the app: [Tech Blog App] (https://tech-blog-app-np
 
 ## Screenshots
 
-<img width="923" alt="Screenshot 2025-03-09 015342" src="https://github.com/user-attachments/assets/e944f6fd-1dd8-4c42-89ae-f4f0d9a0df4d" />
- <img width="938" alt="Screenshot 2025-03-09 015157" src="https://github.com/user-attachments/assets/8b887a5a-8de8-45f8-b370-a08032871ee8" />
+<img width="500" alt="Screenshot 2025-03-09 015342" src="https://github.com/user-attachments/assets/e944f6fd-1dd8-4c42-89ae-f4f0d9a0df4d" />
+ <img width="500" alt="Screenshot 2025-03-09 015157" src="https://github.com/user-attachments/assets/8b887a5a-8de8-45f8-b370-a08032871ee8" />
+<img width="488" alt="Screenshot 2025-03-09 015634" src="https://github.com/user-attachments/assets/8565315e-e2af-4558-8315-65d198b4373d" />
 
 
 ## Features
